@@ -1,0 +1,77 @@
+Syncing notes with '小嘿嘿' on Sun, 16 May 2021 06:31:15 UTC
+Resetting to sha1: fb3e01d (Setup syncing on '小嘿嘿').
+Syncing for the first time. Backing up notes to 'notes-backup-1621146675777' branch.
+
+Nothing to pull.
+Nothing to process.
+
+Committing unsynced notes (9):
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+   picking local copy and discarding remote (if any)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+   picking local copy and discarding remote (if any)
+ • untitled_note.md (id=ccc74395-9351-4ce4-b496-a4b818298fa5)
+   picking local copy and discarding remote (if any)
+   deleting untitled_note.md
+ • untitled_note.md (id=61caa6f7-9f67-43a3-8a9d-14fad521a152)
+   picking local copy and discarding remote (if any)
+   deleting untitled_note.md
+ • untitled_note.md (id=bf637c0a-49b5-446e-a4b3-a192a852de57)
+   picking local copy and discarding remote (if any)
+   deleting untitled_note.md
+ • untitled_note.md (id=7ffe210b-f7be-49da-b94f-70c9f47ae942)
+   picking local copy and discarding remote (if any)
+   deleting untitled_note.md
+ • untitled_note.md (id=eac8ed0e-aaf0-4531-a8ed-c299f23cb755)
+   picking local copy and discarding remote (if any)
+   deleting untitled_note.md
+ • untitled_note.md (id=88fcf76e-5d98-46fa-aee6-f1a188bafd79)
+   picking local copy and discarding remote (if any)
+ • 一级标题.md (id=9ee3dc08-7d23-4cd7-8b2d-627156de496c)
+   picking local copy and discarding remote (if any)
+
+Processing commits from fb3e01d to 7d94a81
+ • fb3e01d - Setup syncing on '小嘿嘿'
+ • e4a8268 - Update 'welcome_to_press.md'
+ • cfc2717 - Update 'markdown_guide.md'
+ • fd84a3a - Update 'untitled_note.md'
+ • 81c41e5 - Delete 'untitled_note.md'
+ • f1b18e7 - Update 'untitled_note.md'
+ • bf44deb - Delete 'untitled_note.md'
+ • f915d66 - Update 'untitled_note.md'
+ • 481db46 - Delete 'untitled_note.md'
+ • 6a41adf - Update 'untitled_note.md'
+ • 8d0166e - Delete 'untitled_note.md'
+ • 149a2c5 - Update 'untitled_note.md'
+ • 31d86b4 - Delete 'untitled_note.md'
+ • 9fa9e1c - Update 'untitled_note.md'
+ • 7d94a81 - Update '一级标题.md'
+
+Syncing changes (8)
+ • Add(path=.press/registers/markdown_guide)
+ • Add(path=.press/registers/untitled_note)
+ • Add(path=.press/registers/welcome_to_press)
+ • Add(path=.press/registers/一级标题)
+ • Add(path=markdown_guide.md)
+   skipping markdown_guide.md (already saved)
+ • Add(path=untitled_note.md)
+   skipping untitled_note.md (already saved)
+ • Add(path=welcome_to_press.md)
+   skipping welcome_to_press.md (already saved)
+ • Add(path=一级标题.md)
+   skipping 一级标题.md (already saved)
+
+Syncing deletions
+ • untitled_note.md
+   permanently deleting NoteId(ccc74395-9351-4ce4-b496-a4b818298fa5)
+ • untitled_note.md
+   permanently deleting NoteId(61caa6f7-9f67-43a3-8a9d-14fad521a152)
+ • untitled_note.md
+   permanently deleting NoteId(bf637c0a-49b5-446e-a4b3-a192a852de57)
+ • untitled_note.md
+   permanently deleting NoteId(7ffe210b-f7be-49da-b94f-70c9f47ae942)
+ • untitled_note.md
+   permanently deleting NoteId(eac8ed0e-aaf0-4531-a8ed-c299f23cb755)
+
+Pushing changes
+Wrapping up sync (before push) on Sun, 16 May 2021 06:31:24 UTC
